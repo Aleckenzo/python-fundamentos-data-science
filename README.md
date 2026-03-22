@@ -18,11 +18,14 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 * Funções built-in
 
 ---
+
 ## 📂 Notebooks
 
 - 01_fundamentos_python.ipynb → conceitos básicos da linguagem
 - 02_sets.ipynb → conceitos de set e operações com conjuntos
 - 03_bibliotecas_funcoes.ipynb
+
+---
 
 ## 🛠 Tecnologias
 
