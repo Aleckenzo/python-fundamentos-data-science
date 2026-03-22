@@ -15,7 +15,8 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 * Listas, tuplas e dicionários
 * Sets (construção, operações, performance)
 * Bibliotecas e pacotes (matplotlib, random)
-* Funções built-in
+* Funções built-in (`print()`, `len()`, `type()`)
+* Criação de Funções
 
 ---
 
