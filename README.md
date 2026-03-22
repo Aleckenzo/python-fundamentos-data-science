@@ -1,4 +1,4 @@
-# 🐍 Fundamentos de Python para Data Science
+# 🐍 Python Data Science Notebooks
 
 Este repositório contém meus estudos iniciais em Python, desenvolvidos no Google Colab, com foco na construção de base para Análise de Dados.
 
