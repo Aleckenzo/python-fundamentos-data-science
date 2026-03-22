@@ -16,7 +16,8 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 * Sets (construção, operações, performance)
 * Bibliotecas e pacotes (matplotlib, random)
 * Funções built-in (`sum()`, `len()`, `round()`)
-* Criação de Funções (`def`, `return`, `lambda`)
+* Criação de Funções (`def`, `return`, `lambda`, `map`)
+* Estruturas aninhadas
 
 ---
 
