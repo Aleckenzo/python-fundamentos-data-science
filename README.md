@@ -23,7 +23,7 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 
 - 01_fundamentos_python.ipynb → conceitos básicos da linguagem
 - 02_sets.ipynb → conceitos de set e operações com conjuntos
-- 03_funcoes_estruturas_dados.ipynb
+- 03_bibliotecas_funcoes_colecoes.ipynb
 
 ---
 
