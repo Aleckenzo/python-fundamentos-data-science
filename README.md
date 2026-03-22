@@ -14,7 +14,7 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 * Estruturas de repetição (`while`, `for`)
 * Listas, tuplas e dicionários
 * Sets (construção, operações, performance)
-* Bibliotecas e pacotes
+* Bibliotecas e pacotes (matplotlib, random)
 * Funções built-in
 
 ---
@@ -23,7 +23,7 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 
 - 01_fundamentos_python.ipynb → conceitos básicos da linguagem
 - 02_sets.ipynb → conceitos de set e operações com conjuntos
-- 03_funcoes_estrutura_de_dados.ipynb
+- 03_funcoes_estruturas_dados.ipynb
 
 ---
 
