@@ -7,18 +7,22 @@ Este repositório contém meus estudos iniciais em Python, desenvolvidos no Goog
 ## 📚 Conteúdos Trabalhados
 
 * Variáveis e tipos de dados (`int`, `float`, `str`, `bool`)
-* Estruturas condicionais (`if`, `elif`, `else`)
-* Estruturas de repetição (`for`, `while`)
-* Funções e métodos
-* Manipulação de strings
+* Manipulação de strings (métodos da classe str)
 * Entrada e tratamento de dados (`input`, conversão de tipos)
+* Estruturas condicionais (`if`, `elif`, `else`)
+* Operadores lógicos (`and`, `or`, `not`)
+* Estruturas de repetição (`while`, `for`)
 * Listas, tuplas e dicionários
 * Sets (construção, operações, performance)
+* Bibliotecas e pacotes
+* Funções built-in
 
 ---
 ## 📂 Notebooks
-- Projeto_Python_Data_Science.ipynb → conceitos básicos da linguagem
-- Python_trabalhando_com_sets.ipynb → conceitos de set
+
+- 01_fundamentos_python.ipynb → conceitos básicos da linguagem
+- 02_sets.ipynb  → conceitos de set
+- 03_bibliotecas_funcoes.ipynb
 
 ## 🛠 Tecnologias
 
